@@ -58,7 +58,7 @@ CLOUDINARY_API_SECRET=
 L'application utilise [MongoDB](https://mongodb.com) pour la gestion des données. Je vous conseille d'installer MongoDB sur votre pc si
 ce n'est pas encore fait et affecter la valeur de votre propre uri à la variable d'environnement ```MONGODB_URI```
 
-L'application utilise aussi [Cloudinary](https://cloudinary.com) pour le stockage des images et generer des url pointant sur celle-ci. aller ce ce site [https://cloudinary.com)[Cloudinary] et créer un compte pour développeur et il vous sera fourni les informations complementaires(obligatoire) des variables d'environnement ```CLOUDINARY_CLOUD_NAME```, ```CLOUDINARY_API_KEY```, ```CLOUDINARY_API_SECRET``` 
+L'application utilise aussi [Cloudinary](https://cloudinary.com) pour le stockage des images et generer des url pointant sur celle-ci. aller ce ce site [https://cloudinary.com](Cloudinary) et créer un compte pour développeur et il vous sera fourni les informations complementaires(obligatoire) des variables d'environnement ```CLOUDINARY_CLOUD_NAME```, ```CLOUDINARY_API_KEY```, ```CLOUDINARY_API_SECRET``` 
 
 > Installer les dépendances nécessaire
 

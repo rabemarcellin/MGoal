@@ -92,7 +92,7 @@ export const API_URL="sorry, for avoid server error due for too many requests"
 $ yarn install
 ```
 
-<h3>Lancement du serveur API</h3>
+<h3>Lancement du serveur de l'app mobile</h3>
 
 ```
 $ yarn start
